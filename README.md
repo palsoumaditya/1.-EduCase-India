@@ -311,10 +311,7 @@ This project is proprietary software developed for EduCase India. All rights res
 - **UI/UX Designers**: [Design team]
 - **Product Managers**: [Product team]
 
-### Contact Information
-- **Email**: [contact@educaseindia.com]
-- **Website**: [https://educaseindia.com]
-- **Office**: [Address]
+
 
 ## 🙏 Acknowledgments
 
@@ -325,7 +322,7 @@ This project is proprietary software developed for EduCase India. All rights res
 
 ---
 
-**Last Updated**: December 2024  
-**Maintained by**: EduCase India Development Team
+**Last Updated**: 2025 
+**Maintained by**: Soumaditya Pal
 
 For questions or support, please reach out to our development team or create an issue in this repository.
